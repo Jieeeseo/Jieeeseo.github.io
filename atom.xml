@@ -3,14 +3,14 @@
   <title>Jieeeseo</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://jieeeseo.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://jieeeseo.github.io/"/>
   <updated>2025-10-24T20:31:10.354Z</updated>
-  <id>http://example.com/</id>
+  <id>https://jieeeseo.github.io/</id>
   
   <author>
-    <name>Jay Seo</name>
+    <name>Jay</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2025/10/24/hello-world/"/>
-    <id>http://example.com/2025/10/24/hello-world/</id>
+    <link href="https://jieeeseo.github.io/2025/10/24/hello-world/"/>
+    <id>https://jieeeseo.github.io/2025/10/24/hello-world/</id>
     <published>2025-10-24T20:31:10.354Z</published>
     <updated>2025-10-24T20:31:10.354Z</updated>
     
